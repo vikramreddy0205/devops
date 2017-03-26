@@ -1,2 +1,2 @@
 # devops
-devops practise
+devops practice
